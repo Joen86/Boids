@@ -167,7 +167,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 36005272}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36f0d8cbb39d3491c96cf5f923d9ec9c, type: 3}
+  m_Script: {fileID: 11500000, guid: 3b7b19b8213494343a4f2053a0d4cf4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   numBoids: 100
@@ -179,12 +179,12 @@ MonoBehaviour:
   nearDist: 30
   collisionDist: 5
   velocityMatchingAmt: .00999999978
-  flockCenteringAme: .150000006
+  flockCenteringAmt: .150000006
   collisionAvoidanceAmt: -.5
-  mouseAttactionAmt: .00999999978
+  mouseAttractionAmt: .00999999978
   mouseAvoidanceAmt: .75
   mouseAvoidanceDist: 15
-  velocityLerpAme: .25
+  velocityLerpAmt: .25
   ___________: 0
   mousePos: {x: 0, y: 0, z: 0}
 --- !u!1 &317674011
